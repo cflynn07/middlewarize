@@ -1,6 +1,6 @@
 middlewarize
 ============
-[![Build Status](https://travis-ci.org/tjmehta/middlewarize.svg)](https://travis-ci.org/tjmehta/middlewarize)  
+[![Build Status](https://travis-ci.org/tjmehta/middlewarize.svg)](https://travis-ci.org/tjmehta/middlewarize)
 [![Code Climate](https://codeclimate.com/github/tjmehta/middlewarize/badges/gpa.svg)](https://codeclimate.com/github/tjmehta/middlewarize)
 [![Test Coverage](https://codeclimate.com/github/tjmehta/middlewarize/badges/coverage.svg)](https://codeclimate.com/github/tjmehta/middlewarize)
 [![Dependency Status](https://david-dm.org/tjmehta/middlewarize.svg)](https://david-dm.org/tjmehta/middlewarize)
